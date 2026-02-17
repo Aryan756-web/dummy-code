@@ -1,0 +1,24 @@
+{
+  "name": "dummy-code",
+  "version": "1.0.0",
+  "description": "dummy code to learn express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan756-web/dummy-code.git"
+  },
+  "author": "Aaryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryan756-web/dummy-code/issues"
+  },
+  "homepage": "https://github.com/Aryan756-web/dummy-code#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "name": "Aryan Updated",
+    "email": "aryan.updated@example.com",
+    "phone": "987-654-3210",
+    "membershipDate": "2023-02-20",
+    "issuedBooks": "2",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2023-02-20"
+  },
+  {
+    "id": 6,
+    "name": "Yash",
+    "email": "yash@example.com",
+    "phone": "987-654-3210",
+    "membershipDate": "2023-02-20",
+    "issuedBooks": "1",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2023-02-20"
+  },
+  {
+    "id": 7,
+    "name": "Soham Updated",
+    "email": "soham.updated@example.com",
+    "phone": "987-654-3210",
+    "membershipDate": "2023-02-20",
+    "issuedBooks": "2",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2023-02-20"
+  }
+]
